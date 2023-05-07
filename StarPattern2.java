@@ -30,5 +30,5 @@ class StarPattern2
 			 ****
 			  ***
 			   **
-				* */
+			    * */
             

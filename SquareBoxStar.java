@@ -2,7 +2,7 @@
 
 
 import java.util.Scanner;
-class StarPattern4
+class SquareBoxStar
 {
 	public static void main(String[] args) 
 	{

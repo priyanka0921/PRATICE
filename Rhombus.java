@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-class StarPattern3 
+class Rhombus
 {
 	public static void main(String[] args) 
 	{

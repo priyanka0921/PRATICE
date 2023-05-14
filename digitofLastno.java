@@ -13,6 +13,4 @@ class digitofLastno
 	}
 }
 
-Enter a Number :
-147
-its a last number of a digit 7
+

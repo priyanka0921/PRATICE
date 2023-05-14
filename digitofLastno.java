@@ -12,5 +12,7 @@ class digitofLastno
 	     System.out.println("its a last number of a digit " + rem);
 	}
 }
-
+ /* o/p: Enter a Number :
+1475
+its a last number of a digit 5
 

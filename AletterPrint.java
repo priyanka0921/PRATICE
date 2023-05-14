@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class StarPattern5
+class AletterPrint
 {
 	public static void main(String[] args) 
 	{

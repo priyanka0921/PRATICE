@@ -20,4 +20,4 @@ class BuzzNo
 
  /*Enter a Number for prime number:
 147
-its a buzz number
+its a buzz number */

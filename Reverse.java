@@ -16,3 +16,4 @@ class Reverse
 		 System.out.println("this number is reversee . " +rev);
 	}
 }
+/*Its a reverse number 4256

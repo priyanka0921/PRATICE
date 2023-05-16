@@ -19,3 +19,4 @@ class Palindrome
 			}
 	}
 }
+//its a palindrome numbr

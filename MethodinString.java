@@ -1,4 +1,4 @@
-class MethodinString
+class B
 {
 	public void m1(String s)
 	{
@@ -14,8 +14,10 @@ class MethodinString
 		System.out.println("Hello World!");
 	}
 } 
-/* if we are give argument as string then it will print the printing statment as that provide
-if we call using refrence with method name  value then it print the print statement
+/* IF we are passing a non-primitive as an argument then we call the method in 3 ways .
+1) by directly passing sring value
+2) by passing default value (null)
+3) by creating an object of same as the class type in the arguument of the method 
 	output - 
             hi
             hi

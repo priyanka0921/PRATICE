@@ -1,6 +1,6 @@
 package pattern;
 
-public class pattern3 {
+public class leftAngleTraingle {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

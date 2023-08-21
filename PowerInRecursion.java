@@ -1,6 +1,6 @@
 package recursionPrograms;
 
-public class Power {
+public class PowerInRecursion {
 	public static int pow(int base,int exp)
 	{
 		if(exp==0)
